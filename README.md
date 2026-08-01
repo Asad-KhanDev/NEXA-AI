@@ -135,6 +135,22 @@ Future updates will include:
 
 # 📸 Application Preview
 
+---
+
+## 🌗 Adaptive Splash Screen
+
+NEXA AI features a fully adaptive splash screen that automatically adjusts to the user's selected application theme, ensuring a seamless and visually consistent startup experience.
+
+When **Dark Mode** is enabled, the application displays a premium dark-themed splash screen with a deep black background, a glowing NEXA AI logo, and colors optimized for low-light environments.
+
+When **Light Mode** is selected, the splash screen instantly switches to a clean and elegant light-themed version featuring a bright background and a dedicated light-mode logo for improved clarity and aesthetics.
+
+This automatic theme-aware behavior provides a polished first impression while maintaining complete visual consistency throughout the application without requiring any manual user interaction.
+
+| 🌙 Dark Mode Splash Screen | ☀️ Light Mode Splash Screen |
+|:--------------------------:|:---------------------------:|
+| <img src="screenshots/splash_dark.png" width="280"/> | <img src="screenshots/splash_light.png" width="280"/> |
+
 ## 💬 AI Chat Interface
 
 Modern conversation interface with smooth animations and premium Material Design styling.
