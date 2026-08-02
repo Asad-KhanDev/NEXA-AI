@@ -308,7 +308,7 @@ Download the latest APK release and explore the application's premium interface,
 
 <p align="center">
 
-<a href="PASTE_RELEASE_LINK_HERE">
+<a href="https://github.com/Asad-KhanDev/NEXA-AI/releases/download/v1.0/NEXA-AI-v1.0.apk">
 
 <img src="https://img.shields.io/badge/⬇️%20Download-NEXA%20AI%20APK-success?style=for-the-badge"/>
 
